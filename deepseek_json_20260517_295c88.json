@@ -1,0 +1,10 @@
+{
+  "name": "host-team",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "@vercel/kv": "^1.0.0",
+    "uuid": "^9.0.0"
+  }
+}

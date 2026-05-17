@@ -1,0 +1,9 @@
+host-team/
+├── api/
+│   ├── members.js          # 成员增删改查 API
+│   ├── config.js           # 介绍/权限/获奖信息 API
+│   └── init.js             # 首次初始化默认数据
+├── public/
+│   └── index.html          # 前端页面（完整功能）
+├── package.json
+└── vercel.json
